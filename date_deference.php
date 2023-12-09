@@ -15,7 +15,6 @@ class DateDiff {
     }
 }
 
-
 //pass two dates within the constructor and then their deference will be calculate
 $dateDiff = new DateDiff("1981-11-03", "2013-09-04");
 
