@@ -37,4 +37,4 @@ $farm->addAnimal($pig);
 $totalLegs = $farm->getTotalLegs();
 
 //output
-echo "Total animals legs: " . $totalLegs;
+echo "total number of legs of the animals : " . $totalLegs;
